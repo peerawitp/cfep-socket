@@ -1,4 +1,4 @@
-# ColCode - Collaborative Code Editor Protocol (Simplified) 📝
+# CFEP - Collaborative File Editor Protocol (Simplified) 📝
 
 This is a file editing collaboration application that allows multiple clients to connect to a server, authenticate, and collaboratively edit a shared file. The server handles file updates from clients and broadcasts changes to all connected clients in real-time. Which is a simple implementation of a collaborative code editor.
 
